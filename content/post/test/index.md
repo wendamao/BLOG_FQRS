@@ -1,4 +1,11 @@
-GEDI实测样地点简单方案
+---
+title: GEDI实测样地点简单方案
+date: 2020-12-16
+math: true
+diagram: true
+---
+
+
 
 1.调查简要
 
