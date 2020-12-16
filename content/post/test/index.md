@@ -1,11 +1,23 @@
 ---
-title: GEDI实测样地点简单方案
-date: 2020-12-16
+title: 'GEDI实测样地点简单方案'
+subtitle: '创建GEDI实测样地点简单方案'
+summary: 创建GEDI实测样地点简单方案.
+authors:
+- admin
+tags:
+- Academic
+categories:
+- Academic
 math: true
 diagram: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  placement: 2
+  focal_point: ""
+  preview_only: false
 ---
 
 1.调查简要
