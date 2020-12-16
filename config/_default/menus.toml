@@ -12,3 +12,13 @@
   name = "About me"
   url = "about/"
   weight = 20
+
+[[main]]
+  name = "Literatures"
+  url = "literature/"
+  weight = 20
+
+[[main]]
+  name = "Tools"
+  url = "tools/"
+  weight = 20

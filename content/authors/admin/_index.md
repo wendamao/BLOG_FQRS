@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the application of LiDAR in forestry.
 
-#interests:
-#- Forestry
-#- LiDAR
-#- Growing Forest Volume 
+interests:
+  - Forestry
+  - LiDAR
+  - Growing Forest Volume 
 
 education:
   courses:
