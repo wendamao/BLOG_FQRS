@@ -34,7 +34,7 @@ subtitle = ""
   [content.archive]
     enable = true
     text = "See all blog posts"
-    link = "post/"
+    link = "home/"
     
 [design]
   columns = "1"
