@@ -3,9 +3,10 @@ title: GEDI实测样地点简单方案
 date: 2020-12-16
 math: true
 diagram: true
+image:
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
-
-
 
 1.调查简要
 
