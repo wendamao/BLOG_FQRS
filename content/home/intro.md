@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: ✏️ KunJian's Blog About LiDAR
+subtitle: '林业定量遥感（LiDAR）学习记录'
 
 design:
   background:
