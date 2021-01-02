@@ -3,16 +3,22 @@ title: '2020-基于多时相航空激光雷达数据量化耐火林林冠水平�
 subtitle: 'Persistent changes in the horizontal and vertical canopy structure of fire - tolerant forests after severe fire as quantified using multi-temporal airborne lidar data'
 summary: Create a beautifully simple website in under 10 minutes.
 
+authors:
+- admin
 tags:
-- 火灾
-- 机载激光雷达
-
-date: "2021-01-02T16:22:00Z"
-lastmod: "2019-04-17T00:00:00Z"
-featured: true
-draft: false
-
-projects: []
+- Academic
+categories:
+- Academic
+math: true
+diagram: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  focal_point: ""
+  preview_only: false
 ---
 
 **# Title**
