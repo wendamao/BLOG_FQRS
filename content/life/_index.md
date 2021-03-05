@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: life
 
 # View.
 #   1 = List

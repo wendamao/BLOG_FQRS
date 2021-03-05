@@ -1,5 +1,5 @@
 ---
-title: Literature
+title: skills
 
 # View.
 #   1 = List
