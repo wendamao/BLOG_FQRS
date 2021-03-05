@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ KunJian's Blog About LiDAR
-subtitle: '林业定量遥感（LiDAR）学习记录'
+title: ✏️ KunJian's Blog
+subtitle: '行、勤、知、底、心、诚、耐'
 
 design:
   background:

@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the application of LiDAR in forestry.
+bio: 记录生活的大猫酱
 
 interests:
-  - Forestry
-  - LiDAR
-  - Growing Forest Volume 
+  - 拍照
+  - 旅行
+  - 读书
 
 education:
   courses:
@@ -55,4 +55,4 @@ social:
 #email: ""
 ---
 
-Wen KunJian engaged in the research of lidar in forest resource survey. The main research content is the spaceborne lidar GEDI.
+你好~！这里是温坤剑的Blog,欢迎来此做客~这个博客主要分享一下新鲜的事物，生活感悟，兴趣爱好~希望你喜欢！
