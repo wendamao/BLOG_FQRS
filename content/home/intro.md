@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ✏️ KunJian's Blog
-subtitle: '行、勤、知、底、心、诚、耐'
+subtitle: '世界上只有一种英雄主义,看清生活的真相依然热爱生活'
 
 design:
   background:
