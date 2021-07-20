@@ -9,10 +9,10 @@ summary: 👏 重新拾起博客，开始记录自己的生活
 projects: []
 
 # Date published
-date: "2021年7月20日 17点07分"
+date: "2021-07-20T00:00:00Z"
 
 # Date updated
-lastmod: "2021年7月20日 17点07分"
+lastmod: "2021-07-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
