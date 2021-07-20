@@ -14,11 +14,11 @@
   weight = 20
 
 [[main]]
-  name = "Literatures"
-  url = "literature/"
+  name = "Study"
+  url = "study/"
   weight = 20
 
 [[main]]
-  name = "Tools"
-  url = "tools/"
+  name = "Life"
+  url = "life/"
   weight = 20
