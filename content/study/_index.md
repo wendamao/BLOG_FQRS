@@ -1,6 +1,5 @@
 ---
-title: skills
-
+title: 分享学习路上的笔记
 # View.
 #   1 = List
 #   2 = Compact

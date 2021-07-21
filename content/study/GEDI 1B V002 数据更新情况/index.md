@@ -23,8 +23,6 @@ image:
   preview_only: false
 ---
 
-
-
 [TOC]
 
 ------
