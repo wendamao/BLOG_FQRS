@@ -20,7 +20,7 @@ diagram: true
 image:
   placement: 2
   focal_point: ""
-  preview_only: falji
+  preview_only: false
 ---
 
 
